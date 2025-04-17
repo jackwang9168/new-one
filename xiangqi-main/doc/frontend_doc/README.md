@@ -1,0 +1,1 @@
+# Here we write the main things about frontend
